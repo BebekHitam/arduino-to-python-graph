@@ -1,5 +1,4 @@
 import csv
-
 import serial
 import numpy
 import matplotlib.pyplot as plt
